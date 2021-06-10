@@ -1,3 +1,3 @@
-#Kodluyoruz.org Front-end Development-Javascript Course First Homework
+# Kodluyoruz.org Front-end Development-Javascript Course First Homework
 
-##Clock Homework with using Javascript 
+## Clock Homework with using Javascript 
