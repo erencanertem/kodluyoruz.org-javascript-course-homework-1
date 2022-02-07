@@ -1,3 +1,1 @@
-# Kodluyoruz.org Front-end Development-Javascript Course First Homework
-
-## Clock Homework with using Javascript 
+A project showing to user present time with his/her name.
